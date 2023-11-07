@@ -1,0 +1,8 @@
+.yellow-box {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(10, 134, 158);
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #3c0265;
+}
